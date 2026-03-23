@@ -1,0 +1,15 @@
+# Pythonキャッシュ
+__pycache__/
+*.pyc
+
+# IDE関連
+.vscode/
+.idea/
+
+# OS依存
+Thumbs.db
+.DS_Store
+
+output
+
+config.json
