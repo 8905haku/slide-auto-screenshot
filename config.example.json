@@ -1,9 +1,7 @@
 {
     "target_display_index" : 1,
-
     "output_dir_path" : "./output",
     
-    "pixel_diff_value_threshold" : 20,
-
-    "tps": 20
+    "pixel_diff_value_threshold" : 15,
+    "tps": 15
 }
